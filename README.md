@@ -1,2 +1,2 @@
-# nft_reward
+# nft_game
 NFT game code
